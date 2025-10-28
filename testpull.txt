@@ -1,2 +1,1 @@
-test pull
-1
+To jest moja wersja + zdalna wersja połączona razem
